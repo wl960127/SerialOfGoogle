@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">谷歌原生串口</string>
+    <string name="select_serial_port">串口设备</string>
+    <string name="select_baud_rate">波特率</string>
+    <string name="open_serial_port">打开设备</string>
+    <string name="Debug">Debug</string>
+    <string name="cooking">煮面 - Debug</string>
+    <string name="deliverNoodle">出货 - Debug</string>
+    <string name="makeNoodle">制作面条 - Debug</string>
+    <string name="packageNoodle">打包面条 - Debug</string>
+    <string name="sendTest">发送测试</string>
+    <string name="clear">清除log</string>
+    <string name="reset">复位</string>
+    <string name="makeNoodle_btn">开启做面条</string>
+</resources>
